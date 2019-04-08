@@ -1,0 +1,14 @@
+#ignore jupyter files
+jupyter/
+
+#ignore data folder
+data/
+
+#ignore checkpoint
+checkpoint/
+
+#ingnore__pycache
+__pycache__/
+
+#ignore results folder
+results/
